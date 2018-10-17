@@ -5,4 +5,4 @@
   * p - *pause*
   * m - *mute*
 
-## [Play](danight.github.io/projects/snake/snake.htm)
+## [Play](https://danight.github.io/projects/snake/snake.htm)
